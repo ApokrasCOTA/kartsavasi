@@ -1,0 +1,17 @@
+KART SAVAŞI — iPhone / iPad kurulumu
+
+iPhone'da APK gibi doğrudan kurulan bir dosya yoktur. Oyun, Safari'den "Ana Ekrana Ekle" ile
+uygulama gibi kurulan bir web uygulaması (PWA) olarak hazırlandı. Bir kez açıldıktan sonra
+internetsiz çalışır, tam ekran açılır, kaydı telefonda tutulur.
+
+1) Bu klasörün içeriğini (zip'i değil, açılmış hâlini) ücretsiz bir web barındırmaya yükle:
+   - GitHub Pages (github.com → yeni depo → dosyaları yükle → Settings → Pages), ya da
+   - Netlify (app.netlify.com/drop → klasörü sürükle bırak).
+   Adres https ile başlamalı.
+2) iPhone'da o adresi Safari ile aç.
+3) Paylaş düğmesi → "Ana Ekrana Ekle" → Ekle.
+4) Ana ekrandaki "Kart Savaşı" simgesinden aç; ilk açılışta internet açık kalsın,
+   dosyalar (~45 MB) telefona iner. Sonra internetsiz oynanır.
+
+Not: Sesler iPhone'da ilk dokunuştan sonra başlar (Apple kuralı).
+Güncelleme: yeni sürümü aynı adrese yüklemen yeter; oyun kendini yeniler.
