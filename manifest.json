@@ -1,0 +1,23 @@
+{
+ "name": "Kıyametin Çocukları – Kart Savaşı",
+ "short_name": "Kart Savaşı",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "any",
+ "background_color": "#050403",
+ "theme_color": "#050403",
+ "icons": [
+  {
+   "src": "ikon_192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "ikon_512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
